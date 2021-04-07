@@ -2,7 +2,11 @@
 
 ## What am I?
 
-What is this application? High level, only a couple sentences.
+I am a template repo for use by the platform services team to encourage consistency in documentation and repo layout. For those using me, do not feel like you are *required* to adhere to this layout if you feel something better would suit the needs of your application or service. Find more information about this template [here](https://github.com/bcgov-c/platform-services-docs/blob/main/repo-organization.md)
+
+Please use this README as a template for your own README, including all the same information, as appropriate.
+
+Consider including your namespace name(s) in this section, so others supporting this tool know where to look.
 
 ## Contact Info
 
